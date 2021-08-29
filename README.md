@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1543616991-75a2c125ff5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="drawing" height = 100px/>
+<img src="https://images.unsplash.com/photo-1543616991-75a2c125ff5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="drawing" height = 500px width = 500px/>
 
 <!--
 **nuratabanjeh/nuraTabanjeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
