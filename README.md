@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/4b/00/1d/4b001d26a02b061a8535b550c859fd23.jpg/>
+![img](https://i.pinimg.com/564x/4b/00/1d/4b001d26a02b061a8535b550c859fd23.jpg)
 
 <!--
 **nuratabanjeh/nuraTabanjeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
