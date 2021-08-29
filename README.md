@@ -1,6 +1,6 @@
 # Hello, It's Nura! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![img](https://i.pinimg.com/564x/a9/09/16/a90916fd679b790f827dddb2fd43b708.jpg)
+![img](https://www.freewpheaders.com/wp-content/gallery/lights/colorful-blurred-lights-website-header.jpg)
 
 ![Nura's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuratabanjeh&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuratabanjeh&layout=compact)](https://github.com/nuratabanjeh/github-readme-stats)
